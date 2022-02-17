@@ -11,3 +11,5 @@ Steps to reproduce:
 Actual result: Error messages in the login form are displayed in English
 Expected result: Error messages in the login form are displayed in the chosen language
 Attachment: http://...
+
+

@@ -5,3 +5,5 @@ patronymic: Сергеевич
 age: 44
 pets: 2
 salary: 60000
+
+

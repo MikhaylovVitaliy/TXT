@@ -8,3 +8,5 @@ skill_6: Linux terminal
 skill_7: SQL
 skill_8: Jmeter
 skill_9: Python
+
+
