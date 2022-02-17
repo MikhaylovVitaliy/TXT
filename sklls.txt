@@ -1,0 +1,10 @@
+
+skill_1: JSON
+skill_2: Postman
+skill_3: Fiddler
+skill_4: Dev Tools
+skill_5: Android Studio
+skill_6: Linux terminal
+skill_7: SQL
+skill_8: Jmeter
+skill_9: Python

@@ -1,0 +1,6 @@
+
+favorite_movie: Forrest Gump
+favorite_TV_series: Brigada
+favorite_food: chicken
+favorite_season: summer
+country_to_visit: Greece
