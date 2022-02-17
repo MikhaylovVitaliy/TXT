@@ -1,0 +1,7 @@
+
+last_name: Михайлов
+first_name: Виталий
+patronymic: Сергеевич
+age: 44
+pets: 2
+salary: 60000
